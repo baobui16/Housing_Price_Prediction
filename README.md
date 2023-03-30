@@ -17,10 +17,28 @@ Data download được lấy từ Kaggle: https://www.kaggle.com/code/dgawlik/ho
 <br />
 
 > Data description
-
+ 
 > EDA
-
+ 
+ 1. Overview
+ 
+ 2. Missing Values
+ 
+ 3. Analyzing Sale Price
+ 
+ 4. Relationship with Numerical Variables
+ 
+ 5. Relationship with categorical features
+ 
+ 6. Missing Data
+ 
+ 7. Outliers
+ 
+ 8. Bivariate Analysis
+ 
 > Modelling
+    
+ 1. Random Forest Regressor
 
 
 ```yaml
